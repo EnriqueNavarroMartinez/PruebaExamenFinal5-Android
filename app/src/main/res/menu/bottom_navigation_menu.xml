@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_api"
+        android:title="Api"
+        android:icon="@drawable/ic_launcher_background" />
+    <item
+        android:id="@+id/navigation_api2"
+        android:title="ActivityRoom"
+        android:icon="@drawable/ic_launcher_background" />
+    <item
+        android:id="@+id/navigation_room"
+        android:title="FragmentRoom"
+        android:icon="@drawable/ic_launcher_background" />
+    <item
+        android:id="@+id/navigation_room2"
+        android:title="ActivityRoom"
+        android:icon="@drawable/ic_launcher_background" />
+
+
+</menu>
